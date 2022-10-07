@@ -12,7 +12,6 @@ RUN set -ex; \
         gedit \
         xterm \
         sudo \
-	    firefox \
         bash \
         net-tools \
         novnc \
@@ -26,8 +25,6 @@ RUN set -ex; \
         curl \
         git \
 	    wget \
-        libtasn1-3-bin \
-        libglu1-mesa \
         libqt5webkit5 \
         libqt5x11extras5 \
         qml-module-qtquick-controls \
